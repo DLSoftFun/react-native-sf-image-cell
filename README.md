@@ -4,9 +4,12 @@
 
 # 安装
 
-> npm i react-native-sf-image-cell
-> npm i react-native-sf-zoom-image-viewer
-> npm install react-native-video
+> npm i react-native-sf-image-cell  
+
+> npm i react-native-sf-zoom-image-viewer  
+
+> npm install react-native-video  
+
 > react-native link
 
 # Props
